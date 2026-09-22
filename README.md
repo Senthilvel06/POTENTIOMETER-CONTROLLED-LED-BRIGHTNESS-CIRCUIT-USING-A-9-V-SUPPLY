@@ -25,9 +25,9 @@ The circuit was assembled on a solderless breadboard. The LED and 1 kΩ resistor
 
 The LED was observed to glow when the circuit was powered.
 
-![][image1]
-
-                          Breadboard circuit setup with potentiometer and 9 V battery
+![circuit](circuit3.jpg)
+                           
+  Breadboard circuit setup with potentiometer and 9 V battery
 
 3.2 Circuit Connections
 
@@ -46,15 +46,15 @@ The LED, potentiometer and R1 therefore form a single series current path.
 The circuit was simulated using Tinkercad Circuits to verify the circuit arrangement and current path.
 
 For consistency with the physical hardware, the potentiometer used for the final circuit documentation is 10 kΩ (B10K).  
-![][image2]
+![simulation](simulation.jpg)
 
                       Tinkercad simulation of the potentiometer-controlled LED circuit
 
 6\. CIRCUIT SCHEMATIC
 
 The schematic consists of a 9 V battery, LED D1, B10K potentiometer RPOT2 and 1 kΩ resistor R1 connected in series.
-
-![][image3]                                   Circuit schematic of the potentiometer-controlled LED brightness circuit
+             ![schematic](schematic3.jpg)        
+   Circuit schematic of the potentiometer-controlled LED brightness circuit
 
 6\. FUNCTION OF COMPONENTS
 
